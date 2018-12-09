@@ -1,0 +1,29 @@
+{
+  "name": "tv-tuner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^1.0.0",
+    "dotenv": "^6.1.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.85.0",
+    "spotify": "^0.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkf1302/liri-node-app.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mkf1302/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mkf1302/liri-node-app#readme"
+}
