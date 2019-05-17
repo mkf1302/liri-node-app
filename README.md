@@ -1,5 +1,8 @@
 # liri-node-app
 
+LIRI is an app that can search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+
+
 Movie
 ![image](https://user-images.githubusercontent.com/40958896/49692152-4e534880-fb4b-11e8-9d42-681bdfa1aeb4.png)
 
